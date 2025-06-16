@@ -1,0 +1,4 @@
+name: VoidTeleport
+version: 1.0
+main: dev.lavicoding.voidteleport.VoidTeleport
+api-version: 1.20
